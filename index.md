@@ -11,49 +11,49 @@ My goal is to deliver high-quality, robust, and secure web solutions that drive 
 ## Web Development Services
 
 
-* ### Custom Website Development
+### Custom Website Development
    
   *  Front-End Development: Creating responsive and interactive user interfaces using HTML5, CSS3, JavaScript, and modern frameworks like React, Angular,      or Vue.js.
     
   *  Back-End Development: Building secure and efficient server-side applications using Node.js, Python, Ruby on Rails, PHP.
     
-1. ### E-commerce Solutions
+ ### E-commerce Solutions
    
   * Development of custom e-commerce platforms or integration with existing solutions like Shopify, WooCommerce, or Magento.
     
   * Implementation of secure payment gateways, shopping carts, and inventory management systems.
     
-3. ### CMS Development
+ ### CMS Development
    
   * Customizing and developing websites using popular content management systems like WordPress, Joomla, or Drupal.
     
   * Creating user-friendly admin panels for easy content management.
     
-4. ### API Development and Integration
+ ### API Development and Integration
    
   * Designing and developing RESTful and GraphQL APIs.
     
   * Integrating third-party APIs to enhance functionality and connectivity of your web applications.
     
-5. ### Web Application Development
+ ### Web Application Development
    
   * Building custom web applications tailored to your business requirements.
     
   * Implementing user authentication, real-time data processing, and interactive dashboards.
     
-6. ### Responsive Web Design
+ ### Responsive Web Design
    
   * Ensuring your website looks and functions perfectly on all devices, including desktops, tablets, and smartphones.
     
   * Utilizing frameworks like Bootstrap or Tailwind CSS for consistent and responsive design.
     
-7. ### Web Maintenance and Support
+ ### Web Maintenance and Support
    
   * Providing ongoing support and maintenance to keep your website up-to-date and secure.
     
   * Monitoring website performance and implementing updates and patches as needed.
     
-8. ### SEO and Performance Optimization
+ ### SEO and Performance Optimization
    
   * Optimizing websites for search engines to improve visibility and ranking.
     
@@ -63,7 +63,7 @@ My goal is to deliver high-quality, robust, and secure web solutions that drive 
 
 ## Penetration Testing Services
 
-1. ### Web Application Penetration Testing
+ ### Web Application Penetration Testing
    
   *  Conducting thorough security assessments to identify vulnerabilities in web applications.
     
@@ -71,7 +71,7 @@ My goal is to deliver high-quality, robust, and secure web solutions that drive 
     
   *  Providing detailed reports with actionable remediation recommendations.
     
-2. ### Network Penetration Testing
+ ### Network Penetration Testing
    
   *  Assessing the security of your network infrastructure, including routers, switches, firewalls, and more.
     
@@ -79,7 +79,7 @@ My goal is to deliver high-quality, robust, and secure web solutions that drive 
     
   *  Recommending measures to strengthen network security.
     
-3. ### API Penetration Testing
+ ### API Penetration Testing
    
   *  Testing RESTful and GraphQL APIs for security flaws.
     
