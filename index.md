@@ -17,6 +17,18 @@ layout: default
 * API Development and Integration
   - Designing and developing RESTful and GraphQL APIs.
   - Integrating third-party APIs to enhance functionality and connectivity of your web applications.
+* Web Application Development
+  - Building custom web applications tailored to your business requirements.
+  - Implementing user authentication, real-time data processing, and interactive dashboards.
+* Responsive Web Design
+  - Ensuring your website looks and functions perfectly on all devices, including desktops, tablets, and smartphones.
+  - Utilizing frameworks like Bootstrap or Tailwind CSS for consistent and responsive design.
+* Web Maintenance and Support
+  - Providing ongoing support and maintenance to keep your website up-to-date and secure.
+  - Monitoring website performance and implementing updates and patches as needed.
+* SEO and Performance Optimization
+  - Optimizing websites for search engines to improve visibility and ranking.
+  - Enhancing website performance by reducing load times and improving overall user experience.
     
 
 > This is a blockquote following a header.
