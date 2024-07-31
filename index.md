@@ -14,7 +14,7 @@ My goal is to deliver high-quality, robust, and secure web solutions that drive 
     
   *  Back-End Development: Building secure and efficient server-side applications using Node.js, Python, Ruby on Rails, PHP.
     
-2. #### E-commerce Solutions
+1. #### E-commerce Solutions
    
   * Development of custom e-commerce platforms or integration with existing solutions like Shopify, WooCommerce, or Magento.
     
