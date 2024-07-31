@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+As a seasoned web developer and penetration tester, I offer a unique combination of services that ensure your web applications are not only feature-rich and user-friendly but also secure from potential threats. 
+My goal is to deliver high-quality, robust, and secure web solutions that drive business growth while protecting your digital assets.
+
 # Services Offered
 
 ## Web Development Services
