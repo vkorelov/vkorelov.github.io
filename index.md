@@ -58,7 +58,7 @@ layout: default
 *   Ongoing Support: Providing continuous support and maintenance to keep your website and systems running smoothly and securely.
 
 
-```
+``` ruby
 Get in Touch
 Ready to enhance your web presence and secure your digital assets? Contact me today to discuss your project requirements and get a free quote. 
 ```
