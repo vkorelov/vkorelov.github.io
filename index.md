@@ -5,10 +5,10 @@ layout: default
 
 ## Web Development Services
 
-1 Custom Website Development
+1. Custom Website Development
   *  Front-End Development: Creating responsive and interactive user interfaces using HTML5, CSS3, JavaScript, and modern frameworks like React, Angular,      or Vue.js.
   - Back-End Development: Building secure and efficient server-side applications using Node.js, Python, Ruby on Rails, PHP.
-2 E-commerce Solutions
+1. E-commerce Solutions
   - Development of custom e-commerce platforms or integration with existing solutions like Shopify, WooCommerce, or Magento.
   - Implementation of secure payment gateways, shopping carts, and inventory management systems.
 3 CMS Development
