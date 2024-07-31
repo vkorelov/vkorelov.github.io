@@ -47,7 +47,7 @@ layout: default
   *  Ensuring secure authentication, authorization, and data transmission.
   *  Reporting vulnerabilities and suggesting fixes to enhance API security.
 
-* * *
+ ---
 
 ## Why Choose My Services?
 
