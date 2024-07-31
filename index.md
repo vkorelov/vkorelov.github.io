@@ -3,24 +3,27 @@ layout: default
 ---
 As a seasoned web developer and penetration tester, I offer a unique combination of services that ensure your web applications are not only feature-rich and user-friendly but also secure from potential threats. 
 My goal is to deliver high-quality, robust, and secure web solutions that drive business growth while protecting your digital assets.
+
 * * *
 # Services Offered
----
+* * *
+
 ## Web Development Services
 
-1. #### Custom Website Development
+
+* ### Custom Website Development
    
   *  Front-End Development: Creating responsive and interactive user interfaces using HTML5, CSS3, JavaScript, and modern frameworks like React, Angular,      or Vue.js.
     
   *  Back-End Development: Building secure and efficient server-side applications using Node.js, Python, Ruby on Rails, PHP.
     
-1. #### E-commerce Solutions
+1. ### E-commerce Solutions
    
   * Development of custom e-commerce platforms or integration with existing solutions like Shopify, WooCommerce, or Magento.
     
   * Implementation of secure payment gateways, shopping carts, and inventory management systems.
     
-3. #### CMS Development
+3. ### CMS Development
    
   * Customizing and developing websites using popular content management systems like WordPress, Joomla, or Drupal.
     
