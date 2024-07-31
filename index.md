@@ -6,7 +6,7 @@ layout: default
 ## Web Development Services
 
 * Custom Website Development
-  - Front-End Development: Creating responsive and interactive user interfaces using HTML5, CSS3, JavaScript, and modern frameworks like React, Angular,      or Vue.js.
+  *  Front-End Development: Creating responsive and interactive user interfaces using HTML5, CSS3, JavaScript, and modern frameworks like React, Angular,      or Vue.js.
   - Back-End Development: Building secure and efficient server-side applications using Node.js, Python, Ruby on Rails, PHP.
 * E-commerce Solutions
   - Development of custom e-commerce platforms or integration with existing solutions like Shopify, WooCommerce, or Magento.
