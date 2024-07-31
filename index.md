@@ -29,6 +29,8 @@ layout: default
 * SEO and Performance Optimization
   - Optimizing websites for search engines to improve visibility and ranking.
   - Enhancing website performance by reducing load times and improving overall user experience.
+
+* * *
     
 
 > This is a blockquote following a header.
