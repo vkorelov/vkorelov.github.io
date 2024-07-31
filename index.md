@@ -1,14 +1,7 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+As a seasoned web developer and penetration tester, I offer a unique combination of services that ensure your web applications are not only feature-rich and user-friendly but also secure from potential threats. My goal is to deliver high-quality, robust, and secure web solutions that drive business growth while protecting your digital assets.
 
 # Header 1
 
