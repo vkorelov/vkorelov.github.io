@@ -17,43 +17,43 @@ My goal is to deliver high-quality, robust, and secure web solutions that drive 
     
   *  Back-End Development: Building secure and efficient server-side applications using Node.js, Python, Ruby on Rails, PHP.
     
- ### E-commerce Solutions
+### E-commerce Solutions
    
   * Development of custom e-commerce platforms or integration with existing solutions like Shopify, WooCommerce, or Magento.
     
   * Implementation of secure payment gateways, shopping carts, and inventory management systems.
     
- ### CMS Development
+### CMS Development
    
   * Customizing and developing websites using popular content management systems like WordPress, Joomla, or Drupal.
     
   * Creating user-friendly admin panels for easy content management.
     
- ### API Development and Integration
+### API Development and Integration
    
   * Designing and developing RESTful and GraphQL APIs.
     
   * Integrating third-party APIs to enhance functionality and connectivity of your web applications.
     
- ### Web Application Development
+### Web Application Development
    
   * Building custom web applications tailored to your business requirements.
     
   * Implementing user authentication, real-time data processing, and interactive dashboards.
     
- ### Responsive Web Design
+### Responsive Web Design
    
   * Ensuring your website looks and functions perfectly on all devices, including desktops, tablets, and smartphones.
     
   * Utilizing frameworks like Bootstrap or Tailwind CSS for consistent and responsive design.
     
- ### Web Maintenance and Support
+### Web Maintenance and Support
    
   * Providing ongoing support and maintenance to keep your website up-to-date and secure.
     
   * Monitoring website performance and implementing updates and patches as needed.
     
- ### SEO and Performance Optimization
+### SEO and Performance Optimization
    
   * Optimizing websites for search engines to improve visibility and ranking.
     
@@ -63,7 +63,7 @@ My goal is to deliver high-quality, robust, and secure web solutions that drive 
 
 ## Penetration Testing Services
 
- ### Web Application Penetration Testing
+### Web Application Penetration Testing
    
   *  Conducting thorough security assessments to identify vulnerabilities in web applications.
     
@@ -71,7 +71,7 @@ My goal is to deliver high-quality, robust, and secure web solutions that drive 
     
   *  Providing detailed reports with actionable remediation recommendations.
     
- ### Network Penetration Testing
+### Network Penetration Testing
    
   *  Assessing the security of your network infrastructure, including routers, switches, firewalls, and more.
     
@@ -79,7 +79,7 @@ My goal is to deliver high-quality, robust, and secure web solutions that drive 
     
   *  Recommending measures to strengthen network security.
     
- ### API Penetration Testing
+### API Penetration Testing
    
   *  Testing RESTful and GraphQL APIs for security flaws.
     
