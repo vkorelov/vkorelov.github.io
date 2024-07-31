@@ -34,15 +34,15 @@ layout: default
 
 ## Penetration Testing Services
 
-1 Web Application Penetration Testing
+1. Web Application Penetration Testing
   *  Conducting thorough security assessments to identify vulnerabilities in web applications.
   *  Testing for common vulnerabilities like SQL injection, XSS, CSRF, and more.
   *  Providing detailed reports with actionable remediation recommendations.
-2 Network Penetration Testing
+2. Network Penetration Testing
   *  Assessing the security of your network infrastructure, including routers, switches, firewalls, and more.
   *  Identifying potential entry points and vulnerabilities that could be exploited by attackers.
   *  Recommending measures to strengthen network security.
-3 API Penetration Testing
+3. API Penetration Testing
   *  Testing RESTful and GraphQL APIs for security flaws.
   *  Ensuring secure authentication, authorization, and data transmission.
   *  Reporting vulnerabilities and suggesting fixes to enhance API security.
